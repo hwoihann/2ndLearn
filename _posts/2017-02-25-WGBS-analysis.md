@@ -2,10 +2,7 @@
 layout: post
 title: A tool for WGBS analysis, Methylkit
 categories:
-  - Fresh Blood
-  - Bioinfo
-  - NGS Basics
-  - WGBS
+  - bioinformatic
 tags:
   - NGS Basics
   - NGS Tools
